@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>* EL(Expression Language) 표현언어</h1>
+	<p>
+		기존에 사용했던 표현식(출력식) &lt;= name =&gt;와 같이 <br>
+		JSP
+	</p>
+</body>
+</html>

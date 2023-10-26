@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h3>jsp:include</h3>
+	<p>또 다른 페이지를 포함하고자 할 때 쓰는 태그 </p>
+	<h4>1. 기존의 include 지시어를 이용한 방식(정적 include방식 == 컴파일시 애초에 포함되어있는 형태)</h4>
+	<%@ include file="footer.jsp" %>
+</body>
+</html>
